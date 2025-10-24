@@ -27,12 +27,12 @@ const styles = StyleSheet.create({
   },
   logoTexto: {
     fontSize: 25,
-    color: '#fff',
+    color: '#000000ff',
     marginTop: '20px',
   },
   sloganTexto: {
     fontSize: 18,
-    color: '#181616ff',
+    color: '#000000ff',
     marginTop: '10px',
   },
 })

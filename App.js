@@ -28,11 +28,12 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#9e15ccff',
+    backgroundColor: '#ffffffff',
     alignItems: 'center',
   },
   supermercados: {
-    backgroundColor: '#ffaa00'
+    backgroundColor: '#ff8400ff',
+    width: '100%',
   },
 });
 

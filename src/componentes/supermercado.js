@@ -12,11 +12,10 @@ export default function Supermercado({imagem, nome, distancia}) {
 
 const styles = StyleSheet.create({
   supermercado: {
-    marginTop: '30%',
-    marginLeft: '30%',
-    width: '40%',
+    marginTop: '5%',
+    marginLeft: '5%',
+    width: '90%',
     position: 'relative',
-    backgroundColor: '#ffaa',
     justifyContent: 'center',
     alignItems: 'center',
   },
